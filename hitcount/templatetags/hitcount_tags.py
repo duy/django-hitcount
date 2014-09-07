@@ -5,9 +5,12 @@ from django.core.urlresolvers import reverse
 from django.core.exceptions import MultipleObjectsReturned
 
 from hitcount.models import HitCount
+from hitcount.views import _update_hit_count
 
 register = template.Library()
 
+import logging
+logger = logging.getLogger('hitcount')
 
 def get_target_ctype_pk(context, object_expr):
     # I don't really understand how this is working, but I took it from the
@@ -37,7 +40,7 @@ def return_period_from_string(arg):
         period[str(key)] = int(value)
 
     return period
-    
+
 
 class GetHitCount(template.Node):
 
@@ -163,9 +166,19 @@ class GetHitCountJavascript(template.Node):
 
     def render(self, context):
         ctype, object_pk = get_target_ctype_pk(context, self.object_expr)
+        logger.debug('content type: %s, object_pk: %s' % (ctype, object_pk))
         
         obj, created = HitCount.objects.get_or_create(content_type=ctype, 
                         object_pk=object_pk)
+        if created: logger.debug('hitcount object created')
+        logger.debug('hitcount obj pk: %s' % obj.pk)
+        logger.debug('session key: ' + context['request'].session.session_key)
+
+
+        #Updating here the count instead of being done by the ajax POST request
+        hitcount = HitCount.objects.get(pk=obj.pk)
+        result = _update_hit_count(context, hitcount)
+
 
         js =    "$.post( '" + reverse('hitcount_update_ajax') + "',"   + \
                 "\n\t{ hitcount_pk : '" + str(obj.pk) + "' },\n"         + \
@@ -194,4 +207,5 @@ def get_hit_count_javascript(parser, token):
     return GetHitCountJavascript.handle_token(parser, token)
 
 register.tag('get_hit_count_javascript', get_hit_count_javascript)
+
 
