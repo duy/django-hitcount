@@ -14,8 +14,8 @@ created_format.admin_order_field = 'created'
 
 
 class HitAdmin(admin.ModelAdmin):
-    list_display = (created_format,'user','ip','user_agent','hitcount')
-    search_fields = ('ip','user_agent')
+    list_display = (created_format,'session','hitcount')
+    search_fields = ('session',)
     date_hierarchy = 'created'
     actions = [ actions.blacklist_ips,
                 actions.blacklist_user_agents,

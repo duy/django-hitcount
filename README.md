@@ -1,3 +1,15 @@
+Fork of [django-hitcount](https://github.com/thornomad/django-hitcount) that 
+does not store the user nor the user-agent nor the IP of the visitors.
+It still checks that the visitor is not authenticated (to don't count hits on
+logged in session), the IP (to don't count hits on requests coming from 
+localhost, for instance) and the user-agent (to don't count hits on request
+coming robots).
+It includes a fixture with common robots user-agent strings, obtained from 
+websites like [robots database](http://www.robotstxt.org/db.html), 
+[user-agent-string.info](http://user-agent-string.info/list-of-ua/bots?o=1),
+[myips.ms](http://myip.ms/browse/web_bots/Known_Web_Bots_Web_Bots_2014_Web_Spider_List.html)
+
+
 *NOTE* (02/23/2013) - I have not been actively maintaining this app (as anyone
 can tell from my levels of participation these last few years).  I apologize
 for that because I, myself, hate seeing open source solutions fade with time.

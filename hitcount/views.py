@@ -2,12 +2,18 @@ from django.http import Http404, HttpResponse, HttpResponseBadRequest
 from django.utils import simplejson
 from django.conf import settings
 from django.contrib.contenttypes.models import ContentType
-
+from django.template import RequestContext
 from hitcount.utils import get_ip
 from hitcount.models import Hit, HitCount, BlacklistIP, BlacklistUserAgent
 
+import logging
+logger = logging.getLogger('hitcount')
+
 def _update_hit_count(request, hitcount):
     '''
+    Desn't store IP nor user_agent,
+    but check that IP is not blacklisted
+
     Evaluates a request's Hit and corresponding HitCount object and,
     after a bit of clever logic, either ignores the request or registers
     a new Hit.
@@ -16,6 +22,11 @@ def _update_hit_count(request, hitcount):
 
     Returns True if the request was considered a Hit; returns False if not.
     '''
+
+    # when this is not called by ajax
+    if type(request) == RequestContext: 
+        request = request['request']
+
     user = request.user
 
     if not request.session.session_key:
@@ -24,19 +35,24 @@ def _update_hit_count(request, hitcount):
     session_key = request.session.session_key
     ip = get_ip(request)
     user_agent = request.META.get('HTTP_USER_AGENT', '')[:255]
+    logger.debug('session key: ' + session_key)
+    logger.debug('CSRF_COOKIE: ' + request.META.get('CSRF_COOKIE'))
+
+
     hits_per_ip_limit = getattr(settings, 'HITCOUNT_HITS_PER_IP_LIMIT', 0)
-    exclude_user_group = getattr(settings,
-                            'HITCOUNT_EXCLUDE_USER_GROUP', None)
+
 
     # first, check our request against the blacklists before continuing
+    # exclude hits from localhost when not debugging
+    # currently the list of bots doesn't have the entire text 
+
     if BlacklistIP.objects.filter(ip__exact=ip) or \
-            BlacklistUserAgent.objects.filter(user_agent__exact=user_agent):
+            BlacklistUserAgent.objects.filter(user_agent__contains=user_agent):
         return False
 
-    # second, see if we are excluding a specific user group or not
-    if exclude_user_group and user.is_authenticated():
-        if user.groups.filter(name__in=exclude_user_group):
-            return False
+    # don't store hit if user authenticated
+    if user.is_authenticated():
+        return False
 
     #start with a fresh active query set (HITCOUNT_KEEP_HIT_ACTIVE )
     qs = Hit.objects.filter_active()
@@ -48,27 +64,16 @@ def _update_hit_count(request, hitcount):
 
     # create a generic Hit object with request data
     hit = Hit(  session=session_key,
-                hitcount=hitcount,
-                ip=get_ip(request),
-                user_agent=request.META.get('HTTP_USER_AGENT', '')[:255],)
+                hitcount=hitcount,)
 
-    # first, use a user's authentication to see if they made an earlier hit
-    if user.is_authenticated():
-        if not qs.filter(user=user,hitcount=hitcount):
-            hit.user = user #associate this hit with a user
-            hit.save()
-            return True
+    if not qs.filter(session=session_key,hitcount=hitcount):
+        hit.save()
+        logger.debug('hit saved')
 
-    # if not authenticated, see if we have a repeat session
-    else:
-        if not qs.filter(session=session_key,hitcount=hitcount):
-            hit.save()
+        # forces a save on this anonymous users session
+        request.session.modified = True
 
-            # forces a save on this anonymous users session
-            request.session.modified = True
-
-            return True
-
+        return True
     return False
 
 def json_error_response(error_message):
@@ -79,6 +84,9 @@ def json_error_response(error_message):
 # right now the django handling isn't great.  should return the current
 # hit count so we could update it via javascript (since each view will
 # be one behind).
+from django.views.decorators.csrf import ensure_csrf_cookie
+
+#@ensure_csrf_cookie
 def update_hit_count_ajax(request):
     '''
     Ajax call that can be used to update a hit count.
@@ -97,6 +105,7 @@ def update_hit_count_ajax(request):
         return json_error_response("Hits counted via POST only.")
 
     hitcount_pk = request.POST.get('hitcount_pk')
+    logger.debug('hitcount_pk: %s' % hitcount_pk)
 
     try:
         hitcount = HitCount.objects.get(pk=hitcount_pk)
@@ -111,4 +120,7 @@ def update_hit_count_ajax(request):
         status = "no hit recorded"
 
     json = simplejson.dumps({'status': status})
+    logger.debug('json to respond with: %s' % json)
+
     return HttpResponse(json,mimetype="application/json")
+

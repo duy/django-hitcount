@@ -1,0 +1,5147 @@
+[
+{
+  "pk": 739, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "007AC9"
+  }
+},
+{
+  "pk": 740, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "008"
+  }
+},
+{
+  "pk": 741, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "^Nail"
+  }
+},
+{
+  "pk": 742, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "192.comAgent"
+  }
+},
+{
+  "pk": 743, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "200PleaseBot"
+  }
+},
+{
+  "pk": 744, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "360Spider"
+  }
+},
+{
+  "pk": 745, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "4seohuntBot"
+  }
+},
+{
+  "pk": 746, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "50.nu"
+  }
+},
+{
+  "pk": 747, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "A6-Indexer"
+  }
+},
+{
+  "pk": 748, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "abby"
+  }
+},
+{
+  "pk": 749, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ABCdatos BotLink"
+  }
+},
+{
+  "pk": 750, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Aboundexbot"
+  }
+},
+{
+  "pk": 751, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AboutUsBot"
+  }
+},
+{
+  "pk": 752, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Abrave Spider"
+  }
+},
+{
+  "pk": 753, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Accelobot"
+  }
+},
+{
+  "pk": 754, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Acme.Spider"
+  }
+},
+{
+  "pk": 755, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AcoonBot"
+  }
+},
+{
+  "pk": 756, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AddThis.com"
+  }
+},
+{
+  "pk": 757, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ADmantX Platform Semantic Analyzer"
+  }
+},
+{
+  "pk": 758, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "adressendeutschland.de"
+  }
+},
+{
+  "pk": 759, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AdsBot-Google"
+  }
+},
+{
+  "pk": 760, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ahoy! The Homepage Finder"
+  }
+},
+{
+  "pk": 761, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AhrefsBot"
+  }
+},
+{
+  "pk": 762, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "aiHitBot"
+  }
+},
+{
+  "pk": 763, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "akula"
+  }
+},
+{
+  "pk": 764, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "alexa site audit"
+  }
+},
+{
+  "pk": 765, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Alexabot"
+  }
+},
+{
+  "pk": 766, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Alkaline"
+  }
+},
+{
+  "pk": 767, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Amagit.COM"
+  }
+},
+{
+  "pk": 768, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "amibot"
+  }
+},
+{
+  "pk": 769, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AMZNKAssocBot"
+  }
+},
+{
+  "pk": 770, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ananzi"
+  }
+},
+{
+  "pk": 771, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AntBot"
+  }
+},
+{
+  "pk": 772, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Anthill"
+  }
+},
+{
+  "pk": 773, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Apercite"
+  }
+},
+{
+  "pk": 774, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AportWorm"
+  }
+},
+{
+  "pk": 775, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AraBot"
+  }
+},
+{
+  "pk": 776, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "arachnode.net"
+  }
+},
+{
+  "pk": 777, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Arachnophilia"
+  }
+},
+{
+  "pk": 778, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Arale"
+  }
+},
+{
+  "pk": 779, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Araneo"
+  }
+},
+{
+  "pk": 780, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AraybOt"
+  }
+},
+{
+  "pk": 781, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ArchitextSpider"
+  }
+},
+{
+  "pk": 782, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "archive.org_bot"
+  }
+},
+{
+  "pk": 783, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Aretha"
+  }
+},
+{
+  "pk": 784, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ARIADNE"
+  }
+},
+{
+  "pk": 785, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "arks"
+  }
+},
+{
+  "pk": 786, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ask Jeeves/Teoma"
+  }
+},
+{
+  "pk": 787, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AskJeeves"
+  }
+},
+{
+  "pk": 788, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AskQuickly"
+  }
+},
+{
+  "pk": 789, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ASpider (Associative Spider)"
+  }
+},
+{
+  "pk": 790, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ATN Worldwide"
+  }
+},
+{
+  "pk": 791, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Atomz.com Search Robot"
+  }
+},
+{
+  "pk": 792, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "AURESYS"
+  }
+},
+{
+  "pk": 793, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Automattic Analytics Crawler"
+  }
+},
+{
+  "pk": 794, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BabalooSpider"
+  }
+},
+{
+  "pk": 795, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "backlink-check.de"
+  }
+},
+{
+  "pk": 796, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BacklinkCrawler"
+  }
+},
+{
+  "pk": 797, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BackRub"
+  }
+},
+{
+  "pk": 798, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Bad-Neighborhood"
+  }
+},
+{
+  "pk": 799, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Baiduspider"
+  }
+},
+{
+  "pk": 800, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Bay Spider"
+  }
+},
+{
+  "pk": 801, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "baypup"
+  }
+},
+{
+  "pk": 802, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BDCbot"
+  }
+},
+{
+  "pk": 803, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BDFetch"
+  }
+},
+{
+  "pk": 804, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BegunAdvertising"
+  }
+},
+{
+  "pk": 805, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Big Brother"
+  }
+},
+{
+  "pk": 806, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bingbot"
+  }
+},
+{
+  "pk": 807, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BingPreview"
+  }
+},
+{
+  "pk": 808, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bitlybot"
+  }
+},
+{
+  "pk": 809, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "biwec"
+  }
+},
+{
+  "pk": 810, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bixocrawler"
+  }
+},
+{
+  "pk": 811, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Bjaaland"
+  }
+},
+{
+  "pk": 812, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bl.uk_lddc_bot"
+  }
+},
+{
+  "pk": 813, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BlackWidow"
+  }
+},
+{
+  "pk": 814, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Blekkobot"
+  }
+},
+{
+  "pk": 815, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BLEXBot"
+  }
+},
+{
+  "pk": 816, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BlinkaCrawler"
+  }
+},
+{
+  "pk": 817, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BlogPulse"
+  }
+},
+{
+  "pk": 818, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Bloodhound"
+  }
+},
+{
+  "pk": 819, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bnf.fr_bot"
+  }
+},
+{
+  "pk": 820, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Borg-Bot"
+  }
+},
+{
+  "pk": 821, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bot-pge.chlooe.com"
+  }
+},
+{
+  "pk": 822, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bot.wsowner.com"
+  }
+},
+{
+  "pk": 823, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "botmobi"
+  }
+},
+{
+  "pk": 824, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BotOnParade"
+  }
+},
+{
+  "pk": 825, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BoxSeaBot"
+  }
+},
+{
+  "pk": 826, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BrainbruBot"
+  }
+},
+{
+  "pk": 827, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "bright.net caching robot"
+  }
+},
+{
+  "pk": 828, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Browsershots"
+  }
+},
+{
+  "pk": 829, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BSpider"
+  }
+},
+{
+  "pk": 830, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "BUbiNG"
+  }
+},
+{
+  "pk": 831, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Butterfly"
+  }
+},
+{
+  "pk": 832, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CACTVS Chemistry Spider"
+  }
+},
+{
+  "pk": 833, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Calif"
+  }
+},
+{
+  "pk": 834, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CamontSpider"
+  }
+},
+{
+  "pk": 835, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CareerBot"
+  }
+},
+{
+  "pk": 836, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Cassandra"
+  }
+},
+{
+  "pk": 837, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Castabot"
+  }
+},
+{
+  "pk": 838, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CatchBot"
+  }
+},
+{
+  "pk": 839, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CCBot"
+  }
+},
+{
+  "pk": 840, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CCResearchBot"
+  }
+},
+{
+  "pk": 841, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ChangeDetection"
+  }
+},
+{
+  "pk": 842, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Charlotte"
+  }
+},
+{
+  "pk": 843, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Checkbot"
+  }
+},
+{
+  "pk": 844, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ChristCrawler.com"
+  }
+},
+{
+  "pk": 845, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "churl"
+  }
+},
+{
+  "pk": 846, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "cIeNcIaFiCcIoN.nEt"
+  }
+},
+{
+  "pk": 847, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CirrusExplorer"
+  }
+},
+{
+  "pk": 848, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "cityreview"
+  }
+},
+{
+  "pk": 849, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "classbot"
+  }
+},
+{
+  "pk": 850, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CligooRobot"
+  }
+},
+{
+  "pk": 851, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CliqzBot"
+  }
+},
+{
+  "pk": 852, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CloudFlare-AlwaysOnline"
+  }
+},
+{
+  "pk": 853, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CloudServerMarketSpider"
+  }
+},
+{
+  "pk": 854, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CMC/0.01"
+  }
+},
+{
+  "pk": 855, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CMS Crawler"
+  }
+},
+{
+  "pk": 856, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "coccoc"
+  }
+},
+{
+  "pk": 857, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Collective"
+  }
+},
+{
+  "pk": 858, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Combine System"
+  }
+},
+{
+  "pk": 859, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Company News Search engine"
+  }
+},
+{
+  "pk": 860, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CompSpyBot"
+  }
+},
+{
+  "pk": 861, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ComputingSite Robi/1.0"
+  }
+},
+{
+  "pk": 862, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Conceptbot"
+  }
+},
+{
+  "pk": 863, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ConfuzzledBot"
+  }
+},
+{
+  "pk": 864, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CoolBot"
+  }
+},
+{
+  "pk": 865, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "copyright sheriff"
+  }
+},
+{
+  "pk": 866, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CorpusCrawler"
+  }
+},
+{
+  "pk": 867, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Covario-IDS"
+  }
+},
+{
+  "pk": 868, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "crawler for netopian"
+  }
+},
+{
+  "pk": 869, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Crawler4j"
+  }
+},
+{
+  "pk": 870, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Crowsnest"
+  }
+},
+{
+  "pk": 871, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Curious George"
+  }
+},
+{
+  "pk": 872, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Cusco"
+  }
+},
+{
+  "pk": 873, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CyberSpyder Link Test"
+  }
+},
+{
+  "pk": 874, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "CydralSpider"
+  }
+},
+{
+  "pk": 875, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Daumoa"
+  }
+},
+{
+  "pk": 876, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DBLBot"
+  }
+},
+{
+  "pk": 877, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DCPbot"
+  }
+},
+{
+  "pk": 878, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DealGates Bot"
+  }
+},
+{
+  "pk": 879, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Desert Realm Spider"
+  }
+},
+{
+  "pk": 880, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DeWeb(c) Katalog/Index"
+  }
+},
+{
+  "pk": 881, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Die Blinde Kuh"
+  }
+},
+{
+  "pk": 882, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DienstSpider"
+  }
+},
+{
+  "pk": 883, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Digger"
+  }
+},
+{
+  "pk": 884, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Digimarc MarcSpider"
+  }
+},
+{
+  "pk": 885, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Digimarc Marcspider/CGI"
+  }
+},
+{
+  "pk": 886, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Digital Integrity Robot"
+  }
+},
+{
+  "pk": 887, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Direct Hit Grabber"
+  }
+},
+{
+  "pk": 888, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "discoverybot"
+  }
+},
+{
+  "pk": 889, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DKIMRepBot"
+  }
+},
+{
+  "pk": 890, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Dlvr.it/1.0"
+  }
+},
+{
+  "pk": 891, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DNAbot"
+  }
+},
+{
+  "pk": 892, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DNS-Digger-Explorer"
+  }
+},
+{
+  "pk": 893, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DomainDB"
+  }
+},
+{
+  "pk": 894, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Dot TK - spider"
+  }
+},
+{
+  "pk": 895, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DotBot"
+  }
+},
+{
+  "pk": 896, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "dotSemantic"
+  }
+},
+{
+  "pk": 897, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DownLoad Express"
+  }
+},
+{
+  "pk": 898, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DragonBot"
+  }
+},
+{
+  "pk": 899, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DripfeedBot"
+  }
+},
+{
+  "pk": 900, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "drupact"
+  }
+},
+{
+  "pk": 901, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "DWCP (Dridus' Web Cataloging Project)"
+  }
+},
+{
+  "pk": 902, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "e-collector"
+  }
+},
+{
+  "pk": 903, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EasouSpider"
+  }
+},
+{
+  "pk": 904, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EasyBib AutoCite"
+  }
+},
+{
+  "pk": 905, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EbiNess"
+  }
+},
+{
+  "pk": 906, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "eCairn-Grabber"
+  }
+},
+{
+  "pk": 907, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "eCommerceBot"
+  }
+},
+{
+  "pk": 908, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EdisterBot"
+  }
+},
+{
+  "pk": 909, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EIT Link Verifier Robot"
+  }
+},
+{
+  "pk": 910, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ELFINBOT"
+  }
+},
+{
+  "pk": 911, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Emacs-w3 Search Engine"
+  }
+},
+{
+  "pk": 912, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Embedly"
+  }
+},
+{
+  "pk": 913, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "emefgebot"
+  }
+},
+{
+  "pk": 914, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "envolk"
+  }
+},
+{
+  "pk": 915, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "esculapio"
+  }
+},
+{
+  "pk": 916, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Esribot"
+  }
+},
+{
+  "pk": 917, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Esther"
+  }
+},
+{
+  "pk": 918, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EuripBot"
+  }
+},
+{
+  "pk": 919, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Eurobot"
+  }
+},
+{
+  "pk": 920, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EventGuruBot"
+  }
+},
+{
+  "pk": 921, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EveryoneSocialBot"
+  }
+},
+{
+  "pk": 922, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Evliya Celebi"
+  }
+},
+{
+  "pk": 923, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "EvriNid"
+  }
+},
+{
+  "pk": 924, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Exabot"
+  }
+},
+{
+  "pk": 925, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ExB Language Crawler"
+  }
+},
+{
+  "pk": 926, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ezooms"
+  }
+},
+{
+  "pk": 927, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FacebookExternalHit"
+  }
+},
+{
+  "pk": 928, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "facebookplatform"
+  }
+},
+{
+  "pk": 929, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "factbot"
+  }
+},
+{
+  "pk": 930, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FairShare"
+  }
+},
+{
+  "pk": 931, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Falconsbot"
+  }
+},
+{
+  "pk": 932, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "fastbot crawler"
+  }
+},
+{
+  "pk": 933, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FastCrawler"
+  }
+},
+{
+  "pk": 934, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FauBot"
+  }
+},
+{
+  "pk": 935, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FeedCatBot"
+  }
+},
+{
+  "pk": 936, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FeedFinder/bloggz.se"
+  }
+},
+{
+  "pk": 937, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Feedly"
+  }
+},
+{
+  "pk": 938, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Felix IDE"
+  }
+},
+{
+  "pk": 939, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Fetch-Guess"
+  }
+},
+{
+  "pk": 940, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FetchRover"
+  }
+},
+{
+  "pk": 941, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "fido"
+  }
+},
+{
+  "pk": 942, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "findlinks"
+  }
+},
+{
+  "pk": 943, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "firmilybot"
+  }
+},
+{
+  "pk": 944, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Fish search"
+  }
+},
+{
+  "pk": 945, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Flatland Industries Web Spider"
+  }
+},
+{
+  "pk": 946, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FlightDeckReportsBot"
+  }
+},
+{
+  "pk": 947, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FlipboardProxy"
+  }
+},
+{
+  "pk": 948, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Flocke bot"
+  }
+},
+{
+  "pk": 949, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Fluid Dynamics Search Engine robot"
+  }
+},
+{
+  "pk": 950, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FollowSite Bot"
+  }
+},
+{
+  "pk": 951, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Fooooo_Web_Video_Crawl"
+  }
+},
+{
+  "pk": 952, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Fouineur"
+  }
+},
+{
+  "pk": 953, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Freecrawl"
+  }
+},
+{
+  "pk": 954, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FunnelWeb"
+  }
+},
+{
+  "pk": 955, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "FyberSpider"
+  }
+},
+{
+  "pk": 956, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Gaisbot"
+  }
+},
+{
+  "pk": 957, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "gammaSpider, FocusedCrawler"
+  }
+},
+{
+  "pk": 958, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GarlikCrawler"
+  }
+},
+{
+  "pk": 959, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "gazz"
+  }
+},
+{
+  "pk": 960, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GCreep"
+  }
+},
+{
+  "pk": 961, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GeliyooBot"
+  }
+},
+{
+  "pk": 962, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Genieo Web filter"
+  }
+},
+{
+  "pk": 963, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GetBot"
+  }
+},
+{
+  "pk": 964, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GetterroboPlus Puu"
+  }
+},
+{
+  "pk": 965, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GetURL"
+  }
+},
+{
+  "pk": 966, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Gigabot"
+  }
+},
+{
+  "pk": 967, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GingerCrawler"
+  }
+},
+{
+  "pk": 968, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Girafabot"
+  }
+},
+{
+  "pk": 969, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "gocrawl"
+  }
+},
+{
+  "pk": 970, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GOFORITBOT"
+  }
+},
+{
+  "pk": 971, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Golem"
+  }
+},
+{
+  "pk": 972, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "gonzo"
+  }
+},
+{
+  "pk": 973, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Googlebot"
+  }
+},
+{
+  "pk": 974, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Grahambot"
+  }
+},
+{
+  "pk": 975, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GrapeshotCrawler"
+  }
+},
+{
+  "pk": 976, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Grapnel/0.01 Experiment"
+  }
+},
+{
+  "pk": 977, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Griffon"
+  }
+},
+{
+  "pk": 978, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Gromit"
+  }
+},
+{
+  "pk": 979, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Gulper Bot"
+  }
+},
+{
+  "pk": 980, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "GurujiBot"
+  }
+},
+{
+  "pk": 981, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "H\u00c3\u00a4m\u00c3\u00a4h\u00c3\u00a4kki"
+  }
+},
+{
+  "pk": 982, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Hailoobot"
+  }
+},
+{
+  "pk": 983, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HamBot"
+  }
+},
+{
+  "pk": 984, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Harvest"
+  }
+},
+{
+  "pk": 985, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HatenaScreenshot"
+  }
+},
+{
+  "pk": 986, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "havIndex"
+  }
+},
+{
+  "pk": 987, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "hawkReader"
+  }
+},
+{
+  "pk": 988, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HeartRails_Capture"
+  }
+},
+{
+  "pk": 989, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "heritrix"
+  }
+},
+{
+  "pk": 990, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HI (HTML Index) Search"
+  }
+},
+{
+  "pk": 991, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HKU WWW Octopus"
+  }
+},
+{
+  "pk": 992, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Holmes"
+  }
+},
+{
+  "pk": 993, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HolmesBot"
+  }
+},
+{
+  "pk": 994, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HomeTags"
+  }
+},
+{
+  "pk": 995, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Hometown Spider Pro"
+  }
+},
+{
+  "pk": 996, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HostTracker"
+  }
+},
+{
+  "pk": 997, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HostTracker.com"
+  }
+},
+{
+  "pk": 998, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ht://Dig"
+  }
+},
+{
+  "pk": 999, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "html_analyzer"
+  }
+},
+{
+  "pk": 1000, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HTMLgobble"
+  }
+},
+{
+  "pk": 1001, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HuaweiSymantecSpider"
+  }
+},
+{
+  "pk": 1002, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "HubSpot Connect"
+  }
+},
+{
+  "pk": 1003, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Hyper-Decontextualizer"
+  }
+},
+{
+  "pk": 1004, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "I, Robot"
+  }
+},
+{
+  "pk": 1005, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ia_archiver"
+  }
+},
+{
+  "pk": 1006, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "iajaBot"
+  }
+},
+{
+  "pk": 1007, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IBM_Planetwide"
+  }
+},
+{
+  "pk": 1008, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ICC-Crawler"
+  }
+},
+{
+  "pk": 1009, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ichiro"
+  }
+},
+{
+  "pk": 1010, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "iCjobs"
+  }
+},
+{
+  "pk": 1011, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IdeelaborPlagiaat"
+  }
+},
+{
+  "pk": 1012, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "idmarch"
+  }
+},
+{
+  "pk": 1013, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Iframely"
+  }
+},
+{
+  "pk": 1014, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "image.kapsi.net"
+  }
+},
+{
+  "pk": 1015, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Imagelock"
+  }
+},
+{
+  "pk": 1016, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "imbot"
+  }
+},
+{
+  "pk": 1017, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "immediatenet thumbnails"
+  }
+},
+{
+  "pk": 1018, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IncyWincy"
+  }
+},
+{
+  "pk": 1019, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Influencebot"
+  }
+},
+{
+  "pk": 1020, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Infohelfer"
+  }
+},
+{
+  "pk": 1021, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Informant"
+  }
+},
+{
+  "pk": 1022, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "InfoSeek Robot 1.0"
+  }
+},
+{
+  "pk": 1023, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Infoseek Sidewinder"
+  }
+},
+{
+  "pk": 1024, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "InfoSpiders"
+  }
+},
+{
+  "pk": 1025, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ingrid"
+  }
+},
+{
+  "pk": 1026, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Inktomi Slurp"
+  }
+},
+{
+  "pk": 1027, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Inspector Web"
+  }
+},
+{
+  "pk": 1028, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IntegromeDB"
+  }
+},
+{
+  "pk": 1029, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IntelliAgent"
+  }
+},
+{
+  "pk": 1030, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Internet Cruiser Robot"
+  }
+},
+{
+  "pk": 1031, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Internet Shinchakubin"
+  }
+},
+{
+  "pk": 1032, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Iron33"
+  }
+},
+{
+  "pk": 1033, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Israeli-search"
+  }
+},
+{
+  "pk": 1034, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IstellaBot"
+  }
+},
+{
+  "pk": 1035, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "IXEbot"
+  }
+},
+{
+  "pk": 1036, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Jabse.com Crawler"
+  }
+},
+{
+  "pk": 1037, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JadynAveBot"
+  }
+},
+{
+  "pk": 1038, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JavaBee"
+  }
+},
+{
+  "pk": 1039, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JBot Java Web Robot"
+  }
+},
+{
+  "pk": 1040, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JCrawler"
+  }
+},
+{
+  "pk": 1041, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Jeeves"
+  }
+},
+{
+  "pk": 1042, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JikeSpider"
+  }
+},
+{
+  "pk": 1043, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Job Roboter Spider"
+  }
+},
+{
+  "pk": 1044, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JoBo Java Web Robot"
+  }
+},
+{
+  "pk": 1045, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Jobot"
+  }
+},
+{
+  "pk": 1046, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JoeBot"
+  }
+},
+{
+  "pk": 1047, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JumpStation"
+  }
+},
+{
+  "pk": 1048, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "JUST-CRAWLER"
+  }
+},
+{
+  "pk": 1049, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Jyxobot"
+  }
+},
+{
+  "pk": 1050, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Kalooga"
+  }
+},
+{
+  "pk": 1051, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Karneval-Bot"
+  }
+},
+{
+  "pk": 1052, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Katipo"
+  }
+},
+{
+  "pk": 1053, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KDD-Explorer"
+  }
+},
+{
+  "pk": 1054, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KeywordDensityRobot"
+  }
+},
+{
+  "pk": 1055, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Kilroy"
+  }
+},
+{
+  "pk": 1056, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KIT-Fireball"
+  }
+},
+{
+  "pk": 1057, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KO_Yappo_Robot"
+  }
+},
+{
+  "pk": 1058, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KomodiaBot"
+  }
+},
+{
+  "pk": 1059, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Kraken"
+  }
+},
+{
+  "pk": 1060, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "KrOWLer"
+  }
+},
+{
+  "pk": 1061, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "kulturarw"
+  }
+},
+{
+  "pk": 1062, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "L.webis"
+  }
+},
+{
+  "pk": 1063, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LabelGrabber"
+  }
+},
+{
+  "pk": 1064, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "larbin"
+  }
+},
+{
+  "pk": 1065, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "legs"
+  }
+},
+{
+  "pk": 1066, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Leikibot"
+  }
+},
+{
+  "pk": 1067, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LemurWebCrawler"
+  }
+},
+{
+  "pk": 1068, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LexxeBot"
+  }
+},
+{
+  "pk": 1069, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Lijit"
+  }
+},
+{
+  "pk": 1070, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LinguaBot"
+  }
+},
+{
+  "pk": 1071, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "linguatools"
+  }
+},
+{
+  "pk": 1072, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Linguee Bot"
+  }
+},
+{
+  "pk": 1073, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Link Valet Online"
+  }
+},
+{
+  "pk": 1074, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Link Validator"
+  }
+},
+{
+  "pk": 1075, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LinkAider"
+  }
+},
+{
+  "pk": 1076, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "linkdex.com"
+  }
+},
+{
+  "pk": 1077, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "linkdexbot"
+  }
+},
+{
+  "pk": 1078, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LinkedInBot"
+  }
+},
+{
+  "pk": 1079, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LinkScan"
+  }
+},
+{
+  "pk": 1080, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LinkWalker"
+  }
+},
+{
+  "pk": 1081, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Lipperhey Spider"
+  }
+},
+{
+  "pk": 1082, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "livedoor ScreenShot"
+  }
+},
+{
+  "pk": 1083, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LoadImpactPageAnalyzer"
+  }
+},
+{
+  "pk": 1084, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LoadTimeBot"
+  }
+},
+{
+  "pk": 1085, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Lockon"
+  }
+},
+{
+  "pk": 1086, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "logo.gif Crawler"
+  }
+},
+{
+  "pk": 1087, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "LuminateBot"
+  }
+},
+{
+  "pk": 1088, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Lycos"
+  }
+},
+{
+  "pk": 1089, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Mac WWWWorm"
+  }
+},
+{
+  "pk": 1090, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Magpie"
+  }
+},
+{
+  "pk": 1091, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "magpie-crawler"
+  }
+},
+{
+  "pk": 1092, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Mail.Ru bot"
+  }
+},
+{
+  "pk": 1093, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "marvin/infoseek"
+  }
+},
+{
+  "pk": 1094, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Mattie"
+  }
+},
+{
+  "pk": 1095, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "meanpathbot"
+  }
+},
+{
+  "pk": 1096, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MediaFox"
+  }
+},
+{
+  "pk": 1097, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MeMoNewsBot"
+  }
+},
+{
+  "pk": 1098, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MerzScope"
+  }
+},
+{
+  "pk": 1099, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetaGeneratorCrawler"
+  }
+},
+{
+  "pk": 1100, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetaHeadersBot"
+  }
+},
+{
+  "pk": 1101, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetaJobBot"
+  }
+},
+{
+  "pk": 1102, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetamojiCrawler"
+  }
+},
+{
+  "pk": 1103, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Metaspinner/0.01"
+  }
+},
+{
+  "pk": 1104, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetaURI"
+  }
+},
+{
+  "pk": 1105, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MetaURI API"
+  }
+},
+{
+  "pk": 1106, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MIA Bot"
+  }
+},
+{
+  "pk": 1107, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MiaDev"
+  }
+},
+{
+  "pk": 1108, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MindCrawler"
+  }
+},
+{
+  "pk": 1109, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MJ12bot"
+  }
+},
+{
+  "pk": 1110, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MLBot"
+  }
+},
+{
+  "pk": 1111, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MnoGoSearch"
+  }
+},
+{
+  "pk": 1112, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "mnoGoSearch search engine software"
+  }
+},
+{
+  "pk": 1113, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "moba-crawler"
+  }
+},
+{
+  "pk": 1114, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "moget"
+  }
+},
+{
+  "pk": 1115, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MojeekBot"
+  }
+},
+{
+  "pk": 1116, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MOMspider"
+  }
+},
+{
+  "pk": 1117, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Monster"
+  }
+},
+{
+  "pk": 1118, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Motor"
+  }
+},
+{
+  "pk": 1119, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Motoricerca-Robots.txt-Checker"
+  }
+},
+{
+  "pk": 1120, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Mp3Bot"
+  }
+},
+{
+  "pk": 1121, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MSNBot"
+  }
+},
+{
+  "pk": 1122, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "MSRBOT"
+  }
+},
+{
+  "pk": 1123, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Muncher"
+  }
+},
+{
+  "pk": 1124, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Muninn"
+  }
+},
+{
+  "pk": 1125, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Muscat Ferret"
+  }
+},
+{
+  "pk": 1126, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "musobot"
+  }
+},
+{
+  "pk": 1127, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Mwd.Search"
+  }
+},
+{
+  "pk": 1128, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Najdi.si"
+  }
+},
+{
+  "pk": 1129, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NalezenCzBot"
+  }
+},
+{
+  "pk": 1130, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NaverBot"
+  }
+},
+{
+  "pk": 1131, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NDSpider"
+  }
+},
+{
+  "pk": 1132, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NEC-MeshExplorer"
+  }
+},
+{
+  "pk": 1133, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nederland.zoek"
+  }
+},
+{
+  "pk": 1134, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "nekstbot"
+  }
+},
+{
+  "pk": 1135, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NerdByNature.Bot"
+  }
+},
+{
+  "pk": 1136, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NetCarta WebMap Engine"
+  }
+},
+{
+  "pk": 1137, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NetcraftSurveyAgent"
+  }
+},
+{
+  "pk": 1138, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "netEstate Crawler"
+  }
+},
+{
+  "pk": 1139, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NetMechanic"
+  }
+},
+{
+  "pk": 1140, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NetResearchServer"
+  }
+},
+{
+  "pk": 1141, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NetScoop"
+  }
+},
+{
+  "pk": 1142, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Netseer"
+  }
+},
+{
+  "pk": 1143, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "newscan-online"
+  }
+},
+{
+  "pk": 1144, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NextGenSearchBot"
+  }
+},
+{
+  "pk": 1145, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NHSE Web Forager"
+  }
+},
+{
+  "pk": 1146, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nigma.ru"
+  }
+},
+{
+  "pk": 1147, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "NLNZ_IAHarvester2013"
+  }
+},
+{
+  "pk": 1148, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "nodestackbot"
+  }
+},
+{
+  "pk": 1149, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nomad"
+  }
+},
+{
+  "pk": 1150, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Northern Light Gulliver"
+  }
+},
+{
+  "pk": 1151, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nuhk"
+  }
+},
+{
+  "pk": 1152, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nutch"
+  }
+},
+{
+  "pk": 1153, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "nworm"
+  }
+},
+{
+  "pk": 1154, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Nymesis"
+  }
+},
+{
+  "pk": 1155, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "nzexplorer"
+  }
+},
+{
+  "pk": 1156, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ObjectsSearch"
+  }
+},
+{
+  "pk": 1157, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "oBot"
+  }
+},
+{
+  "pk": 1158, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Occam"
+  }
+},
+{
+  "pk": 1159, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ocelli"
+  }
+},
+{
+  "pk": 1160, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "omgilibot"
+  }
+},
+{
+  "pk": 1161, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OntoSpider"
+  }
+},
+{
+  "pk": 1162, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Open Text Index Robot"
+  }
+},
+{
+  "pk": 1163, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Open Web Analytics Bot"
+  }
+},
+{
+  "pk": 1164, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OpenCalaisSemanticProxy"
+  }
+},
+{
+  "pk": 1165, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Openfind data gatherer"
+  }
+},
+{
+  "pk": 1166, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OpenindexSpider"
+  }
+},
+{
+  "pk": 1167, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OpenWebSpider"
+  }
+},
+{
+  "pk": 1168, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Orb Search"
+  }
+},
+{
+  "pk": 1169, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OrgbyBot"
+  }
+},
+{
+  "pk": 1170, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "OsObot"
+  }
+},
+{
+  "pk": 1171, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ownCloud Server Crawler"
+  }
+},
+{
+  "pk": 1172, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pack Rat"
+  }
+},
+{
+  "pk": 1173, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "page_verifier"
+  }
+},
+{
+  "pk": 1174, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Page2RSS"
+  }
+},
+{
+  "pk": 1175, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PageBoy"
+  }
+},
+{
+  "pk": 1176, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PagePeeker"
+  }
+},
+{
+  "pk": 1177, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Panscient web crawler"
+  }
+},
+{
+  "pk": 1178, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PaperLiBot"
+  }
+},
+{
+  "pk": 1179, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ParaSite"
+  }
+},
+{
+  "pk": 1180, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ParchBot"
+  }
+},
+{
+  "pk": 1181, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "parsijoo"
+  }
+},
+{
+  "pk": 1182, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Patric"
+  }
+},
+{
+  "pk": 1183, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PayPal IPN"
+  }
+},
+{
+  "pk": 1184, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Peeplo Screenshot Bot"
+  }
+},
+{
+  "pk": 1185, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Peepowbot"
+  }
+},
+{
+  "pk": 1186, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "peerindex"
+  }
+},
+{
+  "pk": 1187, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Peew"
+  }
+},
+{
+  "pk": 1188, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "pegasus"
+  }
+},
+{
+  "pk": 1189, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PercolateCrawler"
+  }
+},
+{
+  "pk": 1190, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PerlCrawler 1.0"
+  }
+},
+{
+  "pk": 1191, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PGP Key Agent"
+  }
+},
+{
+  "pk": 1192, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Phantom"
+  }
+},
+{
+  "pk": 1193, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PhpDig"
+  }
+},
+{
+  "pk": 1194, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PiltdownMan"
+  }
+},
+{
+  "pk": 1195, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pimptrain.com's robot"
+  }
+},
+{
+  "pk": 1196, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "pingdom.com_bot"
+  }
+},
+{
+  "pk": 1197, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pinterest"
+  }
+},
+{
+  "pk": 1198, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pioneer"
+  }
+},
+{
+  "pk": 1199, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PiplBot"
+  }
+},
+{
+  "pk": 1200, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pixray-Seeker"
+  }
+},
+{
+  "pk": 1201, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Plukkie"
+  }
+},
+{
+  "pk": 1202, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PlumtreeWebAccessor"
+  }
+},
+{
+  "pk": 1203, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "pmoz.info ODP link checker"
+  }
+},
+{
+  "pk": 1204, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Pompos"
+  }
+},
+{
+  "pk": 1205, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Poppi"
+  }
+},
+{
+  "pk": 1206, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Popular Iconoclast"
+  }
+},
+{
+  "pk": 1207, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Portal Juice Spider"
+  }
+},
+{
+  "pk": 1208, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PortalB Spider"
+  }
+},
+{
+  "pk": 1209, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "PostPost"
+  }
+},
+{
+  "pk": 1210, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ProCogBot"
+  }
+},
+{
+  "pk": 1211, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ProCogSEOBot"
+  }
+},
+{
+  "pk": 1212, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "proximic"
+  }
+},
+{
+  "pk": 1213, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "psbot"
+  }
+},
+{
+  "pk": 1214, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Qirina Hurdler"
+  }
+},
+{
+  "pk": 1215, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Qseero"
+  }
+},
+{
+  "pk": 1216, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Qualidator.com Bot"
+  }
+},
+{
+  "pk": 1217, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Qualidator.com SiteAnalyzer 1.0"
+  }
+},
+{
+  "pk": 1218, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "QuerySeekerSpider"
+  }
+},
+{
+  "pk": 1219, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "quickobot"
+  }
+},
+{
+  "pk": 1220, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "R6 bot"
+  }
+},
+{
+  "pk": 1221, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RADaR-Bot"
+  }
+},
+{
+  "pk": 1222, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RankurBot"
+  }
+},
+{
+  "pk": 1223, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Raven Search"
+  }
+},
+{
+  "pk": 1224, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RBSE Spider"
+  }
+},
+{
+  "pk": 1225, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Readability"
+  }
+},
+{
+  "pk": 1226, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Resume Robot"
+  }
+},
+{
+  "pk": 1227, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RixBot"
+  }
+},
+{
+  "pk": 1228, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Road Runner: The ImageScape Robot"
+  }
+},
+{
+  "pk": 1229, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RoadHouse Crawling System"
+  }
+},
+{
+  "pk": 1230, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Robbie the Robot"
+  }
+},
+{
+  "pk": 1231, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RoboCrawl Spider"
+  }
+},
+{
+  "pk": 1232, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RoboFox"
+  }
+},
+{
+  "pk": 1233, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Robot Francoroute"
+  }
+},
+{
+  "pk": 1234, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Robots_Tester"
+  }
+},
+{
+  "pk": 1235, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Robozilla"
+  }
+},
+{
+  "pk": 1236, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "rogerbot"
+  }
+},
+{
+  "pk": 1237, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ronzoobot"
+  }
+},
+{
+  "pk": 1238, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Roverbot"
+  }
+},
+{
+  "pk": 1239, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RSSMicro.com RSS/Atom Feed Robot"
+  }
+},
+{
+  "pk": 1240, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Ruky-Roboter"
+  }
+},
+{
+  "pk": 1241, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RuLeS"
+  }
+},
+{
+  "pk": 1242, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "RyzeCrawler"
+  }
+},
+{
+  "pk": 1243, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SafetyNet Robot"
+  }
+},
+{
+  "pk": 1244, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SAI Crawler"
+  }
+},
+{
+  "pk": 1245, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SanszBot"
+  }
+},
+{
+  "pk": 1246, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SBIder"
+  }
+},
+{
+  "pk": 1247, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SBSearch"
+  }
+},
+{
+  "pk": 1248, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Scarlett"
+  }
+},
+{
+  "pk": 1249, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Scooter"
+  }
+},
+{
+  "pk": 1250, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ScoutJet"
+  }
+},
+{
+  "pk": 1251, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ScreenerBot Crawler"
+  }
+},
+{
+  "pk": 1252, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Search.Aus-AU.COM"
+  }
+},
+{
+  "pk": 1253, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "search.KumKie.com"
+  }
+},
+{
+  "pk": 1254, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Search17Bot"
+  }
+},
+{
+  "pk": 1255, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SearchmetricsBot"
+  }
+},
+{
+  "pk": 1256, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SearchProcess"
+  }
+},
+{
+  "pk": 1257, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SecurityResearchBot"
+  }
+},
+{
+  "pk": 1258, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "seegnifybot"
+  }
+},
+{
+  "pk": 1259, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Semager"
+  }
+},
+{
+  "pk": 1260, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Semantifire"
+  }
+},
+{
+  "pk": 1261, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SemrushBot"
+  }
+},
+{
+  "pk": 1262, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Senrigan"
+  }
+},
+{
+  "pk": 1263, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Seobility"
+  }
+},
+{
+  "pk": 1264, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SeoCheckBot"
+  }
+},
+{
+  "pk": 1265, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SEODat"
+  }
+},
+{
+  "pk": 1266, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SEOENGBot"
+  }
+},
+{
+  "pk": 1267, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SEOkicks-Robot"
+  }
+},
+{
+  "pk": 1268, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Setoozbot"
+  }
+},
+{
+  "pk": 1269, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SeznamBot"
+  }
+},
+{
+  "pk": 1270, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SG-Scout"
+  }
+},
+{
+  "pk": 1271, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ShagSeeker"
+  }
+},
+{
+  "pk": 1272, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Shai'Hulud"
+  }
+},
+{
+  "pk": 1273, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Shareaholicbot"
+  }
+},
+{
+  "pk": 1274, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Shelob"
+  }
+},
+{
+  "pk": 1275, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ShopWiki"
+  }
+},
+{
+  "pk": 1276, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ShowyouBot"
+  }
+},
+{
+  "pk": 1277, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sift"
+  }
+},
+{
+  "pk": 1278, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Simmany Robot Ver1.0"
+  }
+},
+{
+  "pk": 1279, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "sistrix"
+  }
+},
+{
+  "pk": 1280, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Site Searcher"
+  }
+},
+{
+  "pk": 1281, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Site Valet"
+  }
+},
+{
+  "pk": 1282, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SiteCondor"
+  }
+},
+{
+  "pk": 1283, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sitedomain-Bot"
+  }
+},
+{
+  "pk": 1284, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SiteTech-Rover"
+  }
+},
+{
+  "pk": 1285, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Skymob.com"
+  }
+},
+{
+  "pk": 1286, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SLCrawler"
+  }
+},
+{
+  "pk": 1287, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sleek"
+  }
+},
+{
+  "pk": 1288, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Smart Spider"
+  }
+},
+{
+  "pk": 1289, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "smart.apnoti.com Robot"
+  }
+},
+{
+  "pk": 1290, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Snapbot"
+  }
+},
+{
+  "pk": 1291, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SniffRSS"
+  }
+},
+{
+  "pk": 1292, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Snooper"
+  }
+},
+{
+  "pk": 1293, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "socialbm_bot"
+  }
+},
+{
+  "pk": 1294, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "sogou spider"
+  }
+},
+{
+  "pk": 1295, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Solbot"
+  }
+},
+{
+  "pk": 1296, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SolomonoBot"
+  }
+},
+{
+  "pk": 1297, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sosospider"
+  }
+},
+{
+  "pk": 1298, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Spanner"
+  }
+},
+{
+  "pk": 1299, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "spbot"
+  }
+},
+{
+  "pk": 1300, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Speedy"
+  }
+},
+{
+  "pk": 1301, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Speedy Spider"
+  }
+},
+{
+  "pk": 1302, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "spider_monkey"
+  }
+},
+{
+  "pk": 1303, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SpiderBot"
+  }
+},
+{
+  "pk": 1304, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Spiderline Crawler"
+  }
+},
+{
+  "pk": 1305, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SpiderLing"
+  }
+},
+{
+  "pk": 1306, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SpiderMan"
+  }
+},
+{
+  "pk": 1307, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SpiderView(tm)"
+  }
+},
+{
+  "pk": 1308, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Spinn3r"
+  }
+},
+{
+  "pk": 1309, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Spry Wizard Robot"
+  }
+},
+{
+  "pk": 1310, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SSL-Crawler"
+  }
+},
+{
+  "pk": 1311, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SSLBot"
+  }
+},
+{
+  "pk": 1312, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "StackRambler"
+  }
+},
+{
+  "pk": 1313, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "StatoolsBot"
+  }
+},
+{
+  "pk": 1314, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Steeler"
+  }
+},
+{
+  "pk": 1315, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "STINGbot"
+  }
+},
+{
+  "pk": 1316, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Strokebot"
+  }
+},
+{
+  "pk": 1317, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "suggybot"
+  }
+},
+{
+  "pk": 1318, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Suke"
+  }
+},
+{
+  "pk": 1319, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "suntek search engine"
+  }
+},
+{
+  "pk": 1320, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Surphace Scout"
+  }
+},
+{
+  "pk": 1321, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SurveyBot"
+  }
+},
+{
+  "pk": 1322, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sven"
+  }
+},
+{
+  "pk": 1323, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SWEBot"
+  }
+},
+{
+  "pk": 1324, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Sygol"
+  }
+},
+{
+  "pk": 1325, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "SygolBot"
+  }
+},
+{
+  "pk": 1326, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Symfony Spider"
+  }
+},
+{
+  "pk": 1327, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Szukacz"
+  }
+},
+{
+  "pk": 1328, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TACH Black Widow"
+  }
+},
+{
+  "pk": 1329, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Tagoobot"
+  }
+},
+{
+  "pk": 1330, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "taptubot"
+  }
+},
+{
+  "pk": 1331, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Tarantula"
+  }
+},
+{
+  "pk": 1332, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "tarspider"
+  }
+},
+{
+  "pk": 1333, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Tcl W3 Robot"
+  }
+},
+{
+  "pk": 1334, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TechBOT"
+  }
+},
+{
+  "pk": 1335, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Technoratibot"
+  }
+},
+{
+  "pk": 1336, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Templeton"
+  }
+},
+{
+  "pk": 1337, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TeomaTechnologies"
+  }
+},
+{
+  "pk": 1338, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Jubii Indexing Robot"
+  }
+},
+{
+  "pk": 1339, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The NorthStar Robot"
+  }
+},
+{
+  "pk": 1340, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The NWI Robot"
+  }
+},
+{
+  "pk": 1341, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Peregrinator"
+  }
+},
+{
+  "pk": 1342, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Python Robot"
+  }
+},
+{
+  "pk": 1343, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The TkWWW Robot"
+  }
+},
+{
+  "pk": 1344, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Web Moose"
+  }
+},
+{
+  "pk": 1345, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Web Wombat"
+  }
+},
+{
+  "pk": 1346, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The Webfoot Robot"
+  }
+},
+{
+  "pk": 1347, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "the World Wide Web Wanderer"
+  }
+},
+{
+  "pk": 1348, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "The World Wide Web Worm"
+  }
+},
+{
+  "pk": 1349, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Thumbnail.CZ robot"
+  }
+},
+{
+  "pk": 1350, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ThumbShots-Bot"
+  }
+},
+{
+  "pk": 1351, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "thumbshots-de-Bot"
+  }
+},
+{
+  "pk": 1352, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Thumbshots.ru"
+  }
+},
+{
+  "pk": 1353, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ThumbSniper"
+  }
+},
+{
+  "pk": 1354, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TinEye"
+  }
+},
+{
+  "pk": 1355, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TITAN"
+  }
+},
+{
+  "pk": 1356, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TitIn"
+  }
+},
+{
+  "pk": 1357, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TLSpider"
+  }
+},
+{
+  "pk": 1358, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TomTom places company search"
+  }
+},
+{
+  "pk": 1359, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Topicbot"
+  }
+},
+{
+  "pk": 1360, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Toread-Crawler"
+  }
+},
+{
+  "pk": 1361, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Touche"
+  }
+},
+{
+  "pk": 1362, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "trendictionbot"
+  }
+},
+{
+  "pk": 1363, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TurnitinBot"
+  }
+},
+{
+  "pk": 1364, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "TwengaBot"
+  }
+},
+{
+  "pk": 1365, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Twiceler"
+  }
+},
+{
+  "pk": 1366, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Twikle"
+  }
+},
+{
+  "pk": 1367, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Twingly Recon"
+  }
+},
+{
+  "pk": 1368, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UASlinkChecker"
+  }
+},
+{
+  "pk": 1369, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UCSD Crawl"
+  }
+},
+{
+  "pk": 1370, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UdmSearch"
+  }
+},
+{
+  "pk": 1371, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "uMBot"
+  }
+},
+{
+  "pk": 1372, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UnisterBot"
+  }
+},
+{
+  "pk": 1373, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UnwindFetchor"
+  }
+},
+{
+  "pk": 1374, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Updownerbot"
+  }
+},
+{
+  "pk": 1375, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UptimeBot"
+  }
+},
+{
+  "pk": 1376, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UptimeDog"
+  }
+},
+{
+  "pk": 1377, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "UptimeRobot"
+  }
+},
+{
+  "pk": 1378, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "URL Check"
+  }
+},
+{
+  "pk": 1379, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "URL Spider Pro"
+  }
+},
+{
+  "pk": 1380, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "URLAppendBot"
+  }
+},
+{
+  "pk": 1381, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "urlfan-bot"
+  }
+},
+{
+  "pk": 1382, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Urlfilebot (Urlbot)"
+  }
+},
+{
+  "pk": 1383, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Vagabondo"
+  }
+},
+{
+  "pk": 1384, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Valkyrie"
+  }
+},
+{
+  "pk": 1385, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Vedma"
+  }
+},
+{
+  "pk": 1386, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Verticrawl"
+  }
+},
+{
+  "pk": 1387, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Victoria"
+  }
+},
+{
+  "pk": 1388, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "VideoSurf_bot"
+  }
+},
+{
+  "pk": 1389, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Visbot"
+  }
+},
+{
+  "pk": 1390, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "vision-search"
+  }
+},
+{
+  "pk": 1391, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "void-bot"
+  }
+},
+{
+  "pk": 1392, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "VoilaBot"
+  }
+},
+{
+  "pk": 1393, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "voyager"
+  }
+},
+{
+  "pk": 1394, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "VWbot"
+  }
+},
+{
+  "pk": 1395, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "w@pSpider by wap4.com"
+  }
+},
+{
+  "pk": 1396, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "W3M2"
+  }
+},
+{
+  "pk": 1397, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "w3mir"
+  }
+},
+{
+  "pk": 1398, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Walhello appie"
+  }
+},
+{
+  "pk": 1399, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WallPaper (alias crawlpaper)"
+  }
+},
+{
+  "pk": 1400, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WASALive-Bot"
+  }
+},
+{
+  "pk": 1401, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WatchMouse"
+  }
+},
+{
+  "pk": 1402, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WBSearchBot"
+  }
+},
+{
+  "pk": 1403, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Web Core / Roots"
+  }
+},
+{
+  "pk": 1404, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Web-Monitoring"
+  }
+},
+{
+  "pk": 1405, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Web-sniffer"
+  }
+},
+{
+  "pk": 1406, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebBandit Web Spider"
+  }
+},
+{
+  "pk": 1407, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebCatcher"
+  }
+},
+{
+  "pk": 1408, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebCookies"
+  }
+},
+{
+  "pk": 1409, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebCopy"
+  }
+},
+{
+  "pk": 1410, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebCorp"
+  }
+},
+{
+  "pk": 1411, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "webfetcher"
+  }
+},
+{
+  "pk": 1412, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebImages"
+  }
+},
+{
+  "pk": 1413, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Webinator"
+  }
+},
+{
+  "pk": 1414, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "webinatorbot"
+  }
+},
+{
+  "pk": 1415, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "weblayers"
+  }
+},
+{
+  "pk": 1416, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebLinker"
+  }
+},
+{
+  "pk": 1417, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Weblog Monitor"
+  }
+},
+{
+  "pk": 1418, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "webmastercoffee"
+  }
+},
+{
+  "pk": 1419, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebMirror"
+  }
+},
+{
+  "pk": 1420, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebNL"
+  }
+},
+{
+  "pk": 1421, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebQuest"
+  }
+},
+{
+  "pk": 1422, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebRankSpider"
+  }
+},
+{
+  "pk": 1423, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebReaper"
+  }
+},
+{
+  "pk": 1424, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "webs"
+  }
+},
+{
+  "pk": 1425, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Websnarf"
+  }
+},
+{
+  "pk": 1426, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebSpider"
+  }
+},
+{
+  "pk": 1427, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebStolperer"
+  }
+},
+{
+  "pk": 1428, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebThumbnail"
+  }
+},
+{
+  "pk": 1429, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebVac"
+  }
+},
+{
+  "pk": 1430, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "webwalk"
+  }
+},
+{
+  "pk": 1431, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebWalker"
+  }
+},
+{
+  "pk": 1432, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebWatch"
+  }
+},
+{
+  "pk": 1433, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebWatch/Robot_txtChecker"
+  }
+},
+{
+  "pk": 1434, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WebZinger"
+  }
+},
+{
+  "pk": 1435, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WeSEE"
+  }
+},
+{
+  "pk": 1436, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Wget"
+  }
+},
+{
+  "pk": 1437, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "whatUseek Winona"
+  }
+},
+{
+  "pk": 1438, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Whoismindbot"
+  }
+},
+{
+  "pk": 1439, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WhoWhere Robot"
+  }
+},
+{
+  "pk": 1440, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WikioFeedBot"
+  }
+},
+{
+  "pk": 1441, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "wikiwix-bot"
+  }
+},
+{
+  "pk": 1442, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Wild Ferret Web Hopper #1, #2, #3"
+  }
+},
+{
+  "pk": 1443, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Willow Internet Crawler"
+  }
+},
+{
+  "pk": 1444, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WillyBot"
+  }
+},
+{
+  "pk": 1445, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WinWebBot"
+  }
+},
+{
+  "pk": 1446, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Wired Digital"
+  }
+},
+{
+  "pk": 1447, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WMCAI_robot"
+  }
+},
+{
+  "pk": 1448, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Woko"
+  }
+},
+{
+  "pk": 1449, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "woriobot"
+  }
+},
+{
+  "pk": 1450, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Wotbox"
+  }
+},
+{
+  "pk": 1451, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "wsAnalyzer"
+  }
+},
+{
+  "pk": 1452, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "wscheck.com"
+  }
+},
+{
+  "pk": 1453, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "WWWC Ver 0.2.5"
+  }
+},
+{
+  "pk": 1454, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "x28-job-bot"
+  }
+},
+{
+  "pk": 1455, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "XGET"
+  }
+},
+{
+  "pk": 1456, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "XmarksFetch"
+  }
+},
+{
+  "pk": 1457, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "XML Sitemaps Generator"
+  }
+},
+{
+  "pk": 1458, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "XRL"
+  }
+},
+{
+  "pk": 1459, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "XYLEME Robot"
+  }
+},
+{
+  "pk": 1460, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Yaanb"
+  }
+},
+{
+  "pk": 1461, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "yacybot"
+  }
+},
+{
+  "pk": 1462, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Yahoo!"
+  }
+},
+{
+  "pk": 1463, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YandexBot"
+  }
+},
+{
+  "pk": 1464, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Yanga"
+  }
+},
+{
+  "pk": 1465, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YioopBot"
+  }
+},
+{
+  "pk": 1466, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YodaoBot"
+  }
+},
+{
+  "pk": 1467, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YoudaoBot"
+  }
+},
+{
+  "pk": 1468, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YowedoBot"
+  }
+},
+{
+  "pk": 1469, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YRSpider"
+  }
+},
+{
+  "pk": 1470, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "YYSpider"
+  }
+},
+{
+  "pk": 1471, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ZeerchBot"
+  }
+},
+{
+  "pk": 1472, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "Zookabot"
+  }
+},
+{
+  "pk": 1473, 
+  "model": "hitcount.blacklistuseragent", 
+  "fields": {
+    "user_agent": "ZumBot"
+  }
+}
+]
