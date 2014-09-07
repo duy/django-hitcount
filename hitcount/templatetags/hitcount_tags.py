@@ -209,3 +209,38 @@ def get_hit_count_javascript(parser, token):
 register.tag('get_hit_count_javascript', get_hit_count_javascript)
 
 
+class GetMostPopular(template.Node):
+    # FIXME: token could be used to specify number of objects to return
+    
+    def __init__(self, num_objs, var_name):
+        self.num_objs = num_objs
+        self.var_name = var_name
+        logger.debug('in init, num_objs' + num_objs)
+
+    def render(self, context):
+        logger.debug('in render, self.num_objs: ' + self.num_objs)
+        logger.debug(type(self.num_objs))
+        objs = [hc.content_object for hc in HitCount.objects.all()]
+        print objs
+        if self.num_objs:
+            objs = objs[:self.num_objs]
+        context[self.var_name] = objs
+        return ''
+
+def get_most_popular(parser,token):
+    args = token.contents.split()
+    logger.debug(args)
+    #FIXME: accept syntax without num objects and without as
+    # {% get_most_popular [num] as [var] %}
+    if len(args) == 4 and args[1].isdigit() and args[2] == 'as':
+        num_objs = int(args[1])
+        var_name = args[3]
+        return GetMostPopular(num_objs, var_name)
+    else:
+        raise TemplateSyntaxError, \
+        "'get_most_popular' requires  " + \
+        "num as var " + \
+        "(got %r)" % args
+
+register.tag('get_most_popular', get_most_popular)
+
