@@ -12,9 +12,9 @@ created_format.short_description = "Date (UTC)"
 created_format.allow_tags = True
 created_format.admin_order_field = 'created'
 
-
 class HitAdmin(admin.ModelAdmin):
-    list_display = (created_format,'session','hitcount')
+    list_display = (created_format,'session','hitcount_hits', 'hitcount_object_pk', 'hitcount', 'hitcount_content_type')
+    list_filter = ['hitcount__content_type']
     search_fields = ('session',)
     date_hierarchy = 'created'
     actions = [ actions.blacklist_ips,
@@ -35,6 +35,15 @@ class HitAdmin(admin.ModelAdmin):
         if 'delete_selected' in actions:
             del actions['delete_selected']
         return actions
+
+    def hitcount_content_type(self, obj):
+        return obj.hitcount.content_type
+
+    def hitcount_object_pk(self, obj):
+        return obj.hitcount.object_pk
+
+    def hitcount_hits(self, obj):
+        return obj.hitcount.hits
 
 # TODO: Add inlines to the HitCount object so we can see a list of the recent
 # hits for the object.  For this inline to work, we need to:
