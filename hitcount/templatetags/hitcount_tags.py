@@ -172,8 +172,7 @@ class GetHitCountJavascript(template.Node):
                         object_pk=object_pk)
         if created: logger.debug('hitcount object created')
         logger.debug('hitcount obj pk: %s' % obj.pk)
-        logger.debug('session key: ' + context['request'].session.session_key)
-
+        logger.debug('session key: %s' % context['request'].session.session_key)
 
         #Updating here the count instead of being done by the ajax POST request
         hitcount = HitCount.objects.get(pk=obj.pk)
