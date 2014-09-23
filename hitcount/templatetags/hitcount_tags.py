@@ -165,6 +165,9 @@ class GetHitCountJavascript(template.Node):
 
 
     def render(self, context):
+        logger.debug('session key: %s' % context['request'].session.session_key)
+        logger.debug('CSRF_COOKIE: ' + context['request'].META.get('CSRF_COOKIE'))
+
         ctype, object_pk = get_target_ctype_pk(context, self.object_expr)
         logger.debug('content type: %s, object_pk: %s' % (ctype, object_pk))
 
@@ -172,15 +175,10 @@ class GetHitCountJavascript(template.Node):
                         object_pk=object_pk)
         if created: logger.debug('hitcount object created')
         logger.debug('hitcount obj pk: %s' % obj.pk)
-        logger.debug('session key: %s' % context['request'].session.session_key)
 
-        #Updating here the count instead of being done by the ajax POST request
-        hitcount = HitCount.objects.get(pk=obj.pk)
-        result = _update_hit_count(context, hitcount)
-
-
-        js =    "$.post( '" + reverse('hitcount_update_ajax') + "',"   + \
-                "\n\t{ hitcount_pk : '" + str(obj.pk) + "' },\n"         + \
+        js =    "var csrf = $('input[name=csrfmiddlewaretoken]').val();" +\
+                "$.post( '" + reverse('hitcount_update_ajax') + "',"   + \
+                "\n{ csrfmiddlewaretoken: csrf, hitcount_pk : '" + str(obj.pk) + "' }," + \
                 "\tfunction(data, status) {\n"                         + \
                 "\t\tif (data.status == 'error') {\n"                  + \
                 "\t\t\t// do something for error?\n"                   + \
