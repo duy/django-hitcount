@@ -24,7 +24,7 @@ def _update_hit_count(request, hitcount):
     '''
 
     # when this is not called by ajax
-    if type(request) == RequestContext: 
+    if type(request) == RequestContext:
         request = request['request']
 
     user = request.user
@@ -44,7 +44,7 @@ def _update_hit_count(request, hitcount):
 
     # first, check our request against the blacklists before continuing
     # exclude hits from localhost when not debugging
-    # currently the list of bots doesn't have the entire text 
+    # currently the list of bots doesn't have the entire text
 
     if BlacklistIP.objects.filter(ip__exact=ip) or \
             BlacklistUserAgent.objects.filter(user_agent__contains=user_agent):
